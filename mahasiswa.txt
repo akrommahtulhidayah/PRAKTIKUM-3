@@ -1,0 +1,5 @@
+NIM  : 001
+Nama : Maya
+Umur : 19
+Rata-rata Nilai : 100
+------------------------------
