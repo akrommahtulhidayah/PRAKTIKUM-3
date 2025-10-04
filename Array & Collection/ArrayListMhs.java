@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class ArrayListMh {
+public class ArrayListMhs {
     public static void main(String[] args) {
         System.out.println("=== DATA NILAI MAHASISWA ===");
         
